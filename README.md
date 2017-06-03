@@ -1,1 +1,1 @@
-# capistrano-docker
+# Capistrano::Docker
